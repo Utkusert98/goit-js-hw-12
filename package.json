@@ -3,10 +3,10 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://yangelia.github.io/goit-js-hw-12/",
+  "homepage": "https://github.com/Utkusert98/goit-js-hw-12",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yangelia/goit-js-hw-12.git"
+    "url": "git+https://github.com/Utkusert98/goit-js-hw-12.git"
   },
   "scripts": {
     "dev": "vite",
